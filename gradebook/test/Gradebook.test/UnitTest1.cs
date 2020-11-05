@@ -8,7 +8,12 @@ namespace test
         [Fact]
         public void Test1()
         {
+            var x = 5;
+            yield = 2;
+            var expected = 7;
 
+            var actual = x * y;
+            Assert.Equal(expected, actual);
         }
     }
 }
