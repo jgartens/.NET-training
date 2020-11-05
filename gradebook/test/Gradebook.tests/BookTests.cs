@@ -1,8 +1,9 @@
 using System;
 using Microsoft.CSharp.RuntimeBinder;
 using Xunit;
+using GradeBook;
 
-namespace Gradebook.tests
+namespace GradeBook.tests
 {
     public class BookTests
     {

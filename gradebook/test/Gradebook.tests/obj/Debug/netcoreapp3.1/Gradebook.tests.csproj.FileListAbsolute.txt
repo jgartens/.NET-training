@@ -94,3 +94,5 @@
 /Users/jake/programming/NET_training/gradebook/test/Gradebook.tests/obj/Debug/netcoreapp3.1/Gradebook.tests.dll
 /Users/jake/programming/NET_training/gradebook/test/Gradebook.tests/obj/Debug/netcoreapp3.1/Gradebook.tests.pdb
 /Users/jake/programming/NET_training/gradebook/test/Gradebook.tests/obj/Debug/netcoreapp3.1/Gradebook.tests.genruntimeconfig.cache
+/Users/jake/programming/NET_training/gradebook/test/GradeBook.tests/bin/Debug/netcoreapp3.1/GradeBook.dll
+/Users/jake/programming/NET_training/gradebook/test/GradeBook.tests/bin/Debug/netcoreapp3.1/GradeBook.pdb
